@@ -1,0 +1,4 @@
+.vim/pack
+.vim/plugged
+.vim/sessions
+.netrwhist
